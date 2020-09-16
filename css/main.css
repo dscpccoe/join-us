@@ -1,0 +1,282 @@
+/*
+    Importing fonts from https://fonts.google.com
+    Use the following line to implement the font :
+    font-family: 'Righteous', sans-serif;
+*/
+@import url("https://fonts.googleapis.com/css?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 85%;
+}
+
+/* Flex Box */
+.flex-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.main-container {
+  height: 100vh;
+  /* vh is % height w.r.t. the vertical height of page */
+}
+
+li,
+a {
+  text-justify: center;
+}
+
+#landing {
+  background-image: url(../images/bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* This block of code puts the comtainer in the centre of the page */
+#container1 {
+  position: relative;
+
+  height: 100vh;
+  width: 100%; /*horizontal scroll bar is not visisble*/
+
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: seashell;
+  transition: all 1s;
+}
+
+#dev-logo {
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: "Righteous", sans-serif;
+  font-size: 5rem;
+}
+
+#list-container {
+  /* background-color: rgba(170, 202, 55, 1); */
+  background-color: White;
+  color: rgb(58, 58, 67);
+  overflow: auto;
+}
+
+#container1:hover {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(255, 255, 255, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgba(170, 202, 55, 1);
+}
+
+/* This block of code puts the container in the centre of the page */
+#container2 {
+  position: relative;
+
+  /* padding: 50px 10px; */
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+
+}
+
+p {
+  font-family: "Righteous", sans-serif;
+  font-size: 25px;
+  margin-bottom: 2px;
+}
+
+span {
+  font-family: "Righteous", sans-serif;
+  font-size: 20px;
+}
+
+ol,
+ul {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+li {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.iconsize {
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  padding: 1rem;
+}
+
+.iconsize:hover {
+  opacity: 0.6;
+  font-size: 2.2rem;
+  color: rgba(91, 136, 40, 0.753);
+}
+
+a {
+  color: rgba(170, 202, 55, 1);
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  text-decoration:underline;
+}
+
+a:hover {
+  color: rgba(150, 168, 80, 1);
+  text-decoration: underline;
+}
+
+#icondiv {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.main-head {
+  text-align: center;
+}
+
+/* Dev LOGO */
+#dev-logo {
+  width: 13rem;
+  height: 13rem;
+}
+
+
+
+/* Edits Corner */
+
+.edits-corner {
+  margin: 10px;
+}
+
+.edits-corner-title {
+  font-family: "Righteous", sans-serif;
+}
+
+.edits {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.editor {
+  font-family: "Righteous", sans-serif;
+}
+
+/* Contributor CSS */
+.contriimg {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+}
+
+.contributor {
+  padding-top: 6px;
+  font-size: 0.8rem;
+  line-height: 4px;
+}
+
+.contri_Flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.steps{
+  position:absolute;
+  font-size:2rem;
+}
+.step{
+  /* margin: 2rem; */
+  margin-left: 0;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  position:relative;
+  display:block;
+  background-color: #fbe2e5;
+  border-width: .5rem;
+  height: 3rem;
+  width: 56rem;
+  left:21rem;
+  font-size:2rem;
+
+}
+
+
+/* Media Queries */
+/* Standard screen-width device */
+@media screen and (max-width: 1200px) {
+  .step{
+    left:13rem;
+    font-size:2rem;
+  
+  }
+}
+@media screen and (max-width: 992px) {
+  .step{
+    left:4rem;
+    font-size:2rem;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .main-head {
+    font-size: 2.5rem;
+  }
+
+  .email {
+    font-size: 1.6rem;
+  }
+  #dev-logo {
+    width: 10rem;
+    height: 10rem;
+  }
+  .step{
+    left: 0;
+    font-size:2rem;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 672px) {
+  .step p{
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .main-head {
+    font-size: 2rem;
+  }
+  .email {
+    font-size: 1.3rem;
+  }
+  #dev-logo {
+    width: 7rem;
+    height: 7rem;
+  }
+  .steps-to-follow{
+    width: 100%;
+  }
+  .step{
+    height: 2rem;
+  }
+  .step p{
+    font-size: 13px;
+  }
+}
