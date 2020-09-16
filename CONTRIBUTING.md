@@ -18,9 +18,9 @@
 
 ## Please follow these steps to join our community:
 
-1. Fill out the <a target="_blank" href="https://bit.ly/join-dscpccoe">interest form.</a>
+1. Fill out the <a target="_blank" href="https://bit.ly/join-dscpccoe">interest form</a>.
 
-2. Join the <a target="_blank" href="https://bit.ly/dscpccoe-dscpage">DSC PCCoE Community page.</a>
+2. Join the <a target="_blank" href="https://bit.ly/dscpccoe-dscpage">DSC PCCoE Community page</a>.
 
 3. Edit the <a target="_blank" href="./MEMBERS.md">MEMBERS.md file</a> to add your details at the end in the following format: 
 
