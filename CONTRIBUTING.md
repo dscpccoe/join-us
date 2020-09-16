@@ -18,12 +18,12 @@
 
 ## Please follow these steps to join our community:
 
-1. Fill out the <a target="_blank" href="https://bit.ly/join-dscpccoe">interest form</a>.
+1. Fill out the [interest form](https://bit.ly/join-dscpccoe).
 
-2. Join the <a target="_blank" href="https://bit.ly/dscpccoe-dscpage">DSC PCCoE Community page</a>.
+2. Join the [DSC PCCoE Community page](https://bit.ly/dscpccoe-dscpage).
 
-3. Edit the <a target="_blank" href="./MEMBERS.md">MEMBERS.md file</a> to add your details at the end in the following format: 
+3. Edit the [MEMBERS.md file](./MEMBERS.md") to add your details at the end in the following format: 
 
     | \[@username](https://github.com/username) | emailaddress@domaim.com | College Name | Department |
 
-4. Accept the invitation from DSC PCCoE GitHub Organization. The invitations are sent automatically after your first pull request on this repo. It may take some time to receive the invitation. If you don't receive an email with the invitation, go to the <a target="_blank" href="https://github.com/dscpccoe">DSC PCCoE GitHub Organization page</a> and check if you have a notification over there. If nothing works, email us your details at dscpccoe@gmail.com along with your GitHub username.
+4. Accept the invitation from DSC PCCoE GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [DSC PCCoE GitHub Organization page](https://github.com/dscpccoe) and check if you have a notification over there. If nothing works, email us your details at dscpccoe@gmail.com along with your GitHub username.
