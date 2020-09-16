@@ -22,7 +22,7 @@
 
 2. Join the [DSC PCCoE Community page](https://bit.ly/dscpccoe-dscpage).
 
-3. Edit the [MEMBERS.md file](./MEMBERS.md") to add your details at the end in the following format: 
+3. Edit the [MEMBERS.md file](./MEMBERS.md) to add your details at the end in the following format: 
 
     | \[@username](https://github.com/username) | emailaddress@domaim.com | College Name | Department |
 
