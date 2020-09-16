@@ -22,8 +22,10 @@
 
 2. Join the [DSC PCCoE Community page](https://bit.ly/dscpccoe-dscpage).
 
-3. Edit the [MEMBERS.md file](./MEMBERS.md) to add your details at the end in the following format: 
+3. Edit the [MEMBERS.md file](https://github.com/dscpccoe/join-us/blob/master/MEMBERS.md) to add your details at the end in the following format: 
 
-    | \[@username](https://github.com/username) | emailaddress@domaim.com | College Name | Department |
+    | Id | \[@username](https://github.com/username) | emailaddress@domaim.com | College Name | Department |
+    
+    > Just increment by 1 for Id.
 
 4. Accept the invitation from DSC PCCoE GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [DSC PCCoE GitHub Organization page](https://github.com/dscpccoe) and check if you have a notification over there. If nothing works, email us your details at dscpccoe@gmail.com along with your GitHub username.
