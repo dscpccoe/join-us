@@ -12,4 +12,4 @@ jobs:
           organization: dscpccoe
           comment: Congrats on your first PR 🎉 \n\n Invitation for joining the DSC PCCoE GitHub Organization has been sent to you. \nWelcoome to the community!
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
