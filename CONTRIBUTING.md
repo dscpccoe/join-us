@@ -24,6 +24,6 @@
 
 3. Add a new file in the [members folder](https://github.com/dscpccoe/join-us/tree/master/members) and name it as `username.md`. The content of the file should be: 
 
-    | Full Name | emailaddress@domaim.com | \[@username](https://github.com/username) | College | Department |
+    Full Name - emailaddress@domaim.com - \[@username](https://github.com/username) - College - Department
 
 4. Accept the invitation from DSC PCCoE GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [DSC PCCoE GitHub Organization page](https://github.com/dscpccoe) and check if you have a notification over there. If nothing works, email us your details at dscpccoe@gmail.com along with your GitHub username.
