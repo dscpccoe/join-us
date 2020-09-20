@@ -1,1 +1,1 @@
-I am sejal zambare. I have created a file in members folder.
+Sejal Zambare - sejalzambare7@gmail.com - @Sejal-16 - PCCoE - Computer
