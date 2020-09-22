@@ -22,6 +22,8 @@
 
 2. Join the [DSC PCCoE Community page](https://bit.ly/dscpccoe-dscpage).
 
+> Don't follow Step 3 in the month of October
+
 3. Add a new file in the [members folder](https://github.com/dscpccoe/join-us/tree/master/members) and name it as `username.md`. The content of the file should be: 
 
     Full Name - emailaddress@domaim.com - \[@username](https://github.com/username) - College - Department
