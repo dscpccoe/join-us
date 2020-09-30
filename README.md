@@ -1,4 +1,4 @@
-# [join them](#join-us)
+# [Join the team](#join-us)
 
 An introductory repo for people to join DSC PCCoE Community.
 
